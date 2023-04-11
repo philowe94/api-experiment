@@ -7,7 +7,7 @@ import {
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
-import App, { loader as AppLoader } from './App';
+import App from './App';
 import Error from './views/Error';
 import Banlist from './views/Banlist';
 
@@ -16,7 +16,6 @@ const router = createBrowserRouter([
     path: "/",
     element: <App />,
     errorElement: <Error />,
-    loader: AppLoader,
     children: [
       {
         path: "/banlist/:banlistId",

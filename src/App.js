@@ -1,14 +1,6 @@
 import './App.css';
 import { useState, useEffect } from 'react';
-import { Outlet, NavLink, useLoaderData } from "react-router-dom";
-
-export async function loader() {
-  let banlists = [];
-  fetch('http://localhost:5001/banlist/all')
-    .then(response => response.json())
-    .then(data => banlists = data);
-  return { banlists };
-}
+import { Outlet, NavLink } from "react-router-dom";
 
 function App() {
 
@@ -20,7 +12,6 @@ function App() {
       .then(data => setBanlists(data));
   }, []);
 
-  // const { banlists } = useLoaderData();
 
   return (
     <div className="App">
