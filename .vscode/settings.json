@@ -1,0 +1,16 @@
+{
+	"sqltools.connections": [
+		{
+			"mysqlOptions": {
+				"authProtocol": "default"
+			},
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5001,
+			"driver": "MariaDB",
+			"name": "ygobanlist",
+			"database": "ygobanlist",
+			"username": "testuser"
+		}
+	]
+}

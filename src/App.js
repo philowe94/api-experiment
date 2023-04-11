@@ -1,23 +1,32 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState, useEffect } from 'react';
 
 function App() {
+
+  const [banlists, setBanlists] = useState([]);
+
+  useEffect(() => {
+    fetch('http://localhost:5001/banlist/all')
+      .then(response => response.json())
+      .then(data => setBanlists(data));
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <h1>YGO Banlist History</h1>
       </header>
+      <main>
+        {banlists.map(banlist => (
+          <div key={banlist.id}>
+            <h2>{banlist.date}</h2>
+          </div>
+        ))}
+      </main>
+      <footer>
+        Created by Philip Lowe
+      </footer>
     </div>
   );
 }
