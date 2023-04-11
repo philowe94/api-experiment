@@ -1,13 +1,35 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+import App, { loader as AppLoader } from './App';
+import Error from './views/Error';
+import Banlist from './views/Banlist';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+    errorElement: <Error />,
+    loader: AppLoader,
+    children: [
+      {
+        path: "/banlist/:banlistId",
+        element: <Banlist />,
+      },
+    ],
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 

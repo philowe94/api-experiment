@@ -92,6 +92,23 @@ app.get('/banlist/all', (req, res) => {
 app.get('/banlist/:id', (req, res) => {
 	const banlistId = req.params.id;
 	connection.query(`
+		SELECT *
+		FROM banlists
+		WHERE id = ?`
+		, [banlistId], (err, results, fields) => {
+			if (err) {
+				console.error('Error executing query:', err.stack);
+				return res.status(500).json({ message: 'Banlist not found' });
+			}
+			res.json(results);
+		}
+	);
+});
+
+//Banlist cards route
+app.get('/banlist/:id/cards', (req, res) => {
+	const banlistId = req.params.id;
+	connection.query(`
 		SELECT cards.name, banlist_card_map.status
 		FROM banlist_card_map
 		JOIN cards ON banlist_card_map.card_id = cards.id
