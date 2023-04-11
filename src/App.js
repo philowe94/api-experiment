@@ -20,22 +20,21 @@ function App() {
       </header>
       <main>
         {banlists.map(banlist => (
-          <div key={banlist.id}>
-            <NavLink
-              to={`/banlist/${banlist.id}`}
-              className={({ isActive, isPending }) =>
-                isActive
-                  ? "active"
-                  : isPending
-                    ? "pending"
-                    : ""
-              }
-            >
-              <h2>
-                {banlist.date}
-              </h2>
-            </NavLink>
-          </div>
+          <NavLink
+            key={banlist.id}
+            to={`/banlist/${banlist.id}`}
+            className={({ isActive, isPending }) =>
+              isActive
+                ? "active"
+                : isPending
+                  ? "pending"
+                  : ""
+            }
+          >
+            <h2>
+              {banlist.date}
+            </h2>
+          </NavLink>
         ))}
       </main>
       <Outlet />

@@ -109,7 +109,7 @@ app.get('/banlist/:id', (req, res) => {
 app.get('/banlist/:id/cards', (req, res) => {
 	const banlistId = req.params.id;
 	connection.query(`
-		SELECT cards.name, banlist_card_map.status
+		SELECT cards.id, cards.name, banlist_card_map.status
 		FROM banlist_card_map
 		JOIN cards ON banlist_card_map.card_id = cards.id
 		WHERE banlist_card_map.banlist_id = ?`
