@@ -40,9 +40,8 @@ function App() {
       </main>
       <Outlet />
       <footer>
-        Created by Philip Lowe
+        <i>Created by Philip Lowe</i>
       </footer>
-      {/* <Route path="/banlist/:id" component={Banlist} /> */}
     </div>
   );
 }
