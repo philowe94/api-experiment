@@ -2,6 +2,11 @@
 
 This app allows you to browse historic banlists for the YGO TCG and OCG. This is useful for anyone who wants to play old formats. Users can also create accounts to add favorite banlists and create custom banlists with shareable links (when the app is finished).
 
+# TODO
+
+Use MediaWiki API to grab data from Yugipedia
+User accounts
+
 # Stack
 React, Express, MariaDB
 

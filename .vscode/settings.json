@@ -6,11 +6,12 @@
 			},
 			"previewLimit": 50,
 			"server": "localhost",
-			"port": 5001,
+			"port": 3306,
 			"driver": "MariaDB",
-			"name": "ygobanlist",
 			"database": "ygobanlist",
-			"username": "testuser"
+			"username": "testuser",
+			"name": "ygobanlist",
+			"connectionTimeout": 1000
 		}
 	]
 }

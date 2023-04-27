@@ -1,0 +1,1708 @@
+{{Historic charts header}}
+
+== Legend ==
+{| class="wikitable" width="100%" style="font-weight: bold; text-align: center;"
+| width="20%" class="status-not-yet-released" | Not released
+| width="20%" {{#vardefineecho: 0 | class="status-forbidden" {{!}} 0 }} - Forbidden
+| width="20%" {{#vardefineecho: 1 | class="status-limited" {{!}} 1 }} - Limited
+| width="20%" {{#vardefineecho: 2 | class="status-semi-limited" {{!}} 2 }} - Semi-Limited
+| width="20%" {{#vardefineecho: 3 | class="status-unlimited" {{!}} 3 }} - Unlimited
+|}
+
+== List ==
+{| class="wikitable" style="background: #DDD; text-align: center;"
+! rowspan="2" | Card
+
+! colspan="4" | 2002
+! colspan="5" | 2003
+! colspan="4" | 2004
+! colspan="2" | 2005
+! colspan="2" | 2006
+! colspan="3" | 2007
+! colspan="3" | 2008
+! colspan="2" | 2009
+! colspan="2" | 2010
+
+|-
+
+! width="15px" | 5 
+! width="15px" | 7
+! width="15px" | 10 
+! width="15px" | 12
+
+! width="15px" | 4
+! width="15px" | 5
+! width="15px" | 7
+! width="15px" | 8
+! width="15px" | 11
+
+! width="15px" | 2
+! width="15px" | 4
+! width="15px" | 8
+! width="15px" | 10
+
+! width="15px" | 4
+! width="15px" | 10
+
+! width="15px" | 4
+! width="15px" | 9
+
+! width="15px" | 3
+! width="15px" | 6
+! width="15px" | 9
+
+! width="15px" | 3
+! width="15px" | 5
+! width="15px" | 9
+
+! width="15px" | 3
+! width="15px" | 9
+
+! width="15px" | 3
+! width="15px" | 9
+
+|-
+! [[A Hero Lives]]
+| colspan="27" | 
+
+|-
+! [[A-Assault Core]]
+| colspan="27" | 
+
+|-
+! [[ABC-Dragon Buster]]
+| colspan="27" | 
+
+|-
+! [[Abyss Soldier]]
+| colspan="13" | || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Advanced Ritual Art]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Allure of Darkness]]
+| colspan="20" | || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Altergeist Multifaker]]
+| colspan="27" | 
+
+|-
+! [[Ancient Fairy Dragon]]
+| colspan="24" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Apoqliphort Towers]]
+| colspan="27" | 
+
+|-
+! [[Appointer of the Red Lotus]]
+| colspan="25" | || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Apprentice Magician]]
+| colspan="8" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Archlord Kristya]]
+| colspan="25" | || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Archnemeses Protos]]
+| colspan="27" | 
+
+|-
+! [[Armageddon Knight]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Artifact Moralltach]]
+| colspan="27" | 
+
+|-
+! [[Astrograph Sorcerer]]
+| colspan="27" | 
+
+|-
+! [[Atlantean Dragoons]]
+| colspan="27" | 
+
+|-
+! [[Backup Soldier]]
+| colspan="3" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Beatrice, Lady of the Eternal]]
+| colspan="27" | 
+
+|-
+! [[Black Dragon Collapserpent]]
+| colspan="27" | 
+
+|-
+! [[Black Luster Soldier - Envoy of the Beginning]]
+| colspan="10" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Black Rose Dragon]]
+| colspan="23" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}}
+
+|-
+! [[Black Whirlwind]]
+| colspan="24" | || {{#var: 3}} || {{#var: 2}} || {{#var: 1}}
+
+|-
+! [[Blackwing - Gale the Whirlwind]]
+| colspan="24" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Blackwing - Gofu the Vague Shadow]]
+| colspan="27" | 
+
+|-
+! [[Blackwing - Kalut the Moon Shadow]]
+| colspan="24" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Blackwing - Steam the Cloak]]
+| colspan="27" | 
+
+|-
+! [[Blaster, Dragon Ruler of Infernos]]
+| colspan="27" | 
+
+|-
+! [[Block Dragon]]
+| colspan="27" | 
+
+|-
+! [[Book of Moon]]
+| colspan="7" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Book of Taiyou]]
+| colspan="7" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Bottomless Trap Hole]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Brain Control]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}}
+
+|-
+! [[Breaker the Magical Warrior]]
+| colspan="8" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Brilliant Fusion]]
+| colspan="27" | 
+
+|-
+! [[Brionac, Dragon of the Ice Barrier]]
+| colspan="25" | || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Brotherhood of the Fire Fist - Spirit]]
+| colspan="27" | 
+
+|-
+! [[Burial from a Different Dimension]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Burner, Dragon Ruler of Sparks]]
+| colspan="27" | 
+
+|-
+! [[Butterfly Dagger - Elma]]
+| colspan="9" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Call of the Haunted]]
+| colspan="3" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Called by the Grave]]
+| colspan="27" | 
+
+|-
+! [[Card Destruction]]
+| {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Card of Demise]]
+| colspan="27" | 
+
+|-
+! [[Card of Safe Return]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Card Trooper]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Ceasefire]]
+| colspan="3" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Chain Strike]]
+| colspan="17" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Change of Heart]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Chaos Emperor Dragon - Envoy of the End]]
+| colspan="10" | || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Chaos Ruler, the Chaotic Magical Dragon]]
+| colspan="27" | 
+
+|-
+! [[Chaos Sorcerer]]
+| colspan="10" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 2}} || {{#var: 1}} || {{#var: 2}}
+
+|-
+! [[Charge of the Light Brigade]]
+| colspan="23" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Chicken Game]]
+| colspan="27" | 
+
+|-
+! [[Cir, Malebranche of the Burning Abyss]]
+| colspan="27" | 
+
+|-
+! [[Coach Soldier Wolfbark]]
+| colspan="27" | 
+
+|-
+! [[Cold Wave]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Compulsory Evacuation Device]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Confiscation]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Constellar Ptolemy M7]]
+| colspan="27" | 
+
+|-
+! [[Creature Swap]]
+| colspan="6" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Crush Card Virus]]
+| colspan="17" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Crystron Halqifibrax]]
+| colspan="27" | 
+
+|-
+! [[Cyber Angel Benten]]
+| colspan="27" | 
+
+|-
+! [[Cyber Dragon]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}}
+
+|-
+! [[Cyber Jar]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Cyber-Stein]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[D.D. Assailant]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[D.D. Warrior Lady]]
+| colspan="9" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Daigusto Emeral]]
+| colspan="27" | 
+
+|-
+! [[Dandylion]]
+| colspan="22" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Danger! Nessie!]]
+| colspan="27" | 
+
+|-
+! [[Danger!? Jackalope?]]
+| colspan="27" | 
+
+|-
+! [[Danger!? Tsuchinoko?]]
+| colspan="27" | 
+
+|-
+! [[Dark Armed Dragon]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Dark Grepher]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Dark Hole]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}}
+
+|-
+! [[Dark Magician of Chaos]]
+| colspan="9" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Dark Scorpion - Chick the Yellow]]
+| colspan="9" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Dark Strike Fighter]]
+| colspan="24" | || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Debris Dragon]]
+| colspan="23" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Deck Devastation Virus]]
+| colspan="13" | || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Deep Sea Diva]]
+| colspan="24" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Delinquent Duo]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Demise, King of Armageddon]]
+| colspan="15" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Denglong, First of the Yang Zing]]
+| colspan="27" | 
+
+|-
+! [[Destiny Draw]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Destiny HERO - Disk Commander]]
+| colspan="18" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Destiny HERO - Malicious]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Destrudo the Lost Dragon's Frisson]]
+| colspan="27" | 
+
+|-
+! [[Dewloren, Tiger King of the Ice Barrier]]
+| colspan = 26 | || {{#var: 2}}
+
+|-
+! [[Dimension Fusion]]
+| colspan="10" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Dimensional Fissure]]
+| colspan="16" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Dimensional Prison]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Dinomight Knight, the True Dracofighter]]
+| colspan="27" | 
+
+|-
+! [[Dinowrestler Pankratops]]
+| colspan="27" | 
+
+|-
+! [[Divine Wind of Mist Valley]]
+| colspan="27" | 
+
+|-
+! [[Djinn Releaser of Rituals]]
+| colspan="25" | || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Double Iris Magician]]
+| colspan="27" | 
+
+|-
+! [[Draco Face-Off]]
+| colspan="27" | 
+
+|-
+! [[Dragon Buster Destruction Sword]]
+| colspan="27" | 
+
+|-
+! [[Dragon Ravine]]
+| colspan="27" | 
+
+|-
+! [[Dragonic Diagram]]
+| colspan="27" | 
+
+|-
+! [[Drop Off]]
+| colspan="6" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[E - Emergency Call]]
+| colspan="16" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Eclipse Wyvern]]
+| colspan="27" | 
+
+|-
+! [[Ehther the Heavenly Monarch]]
+| colspan="27" | 
+
+|-
+! [[El Shaddoll Construct]]
+| colspan="27" | 
+
+|-
+! [[El Shaddoll Fusion]]
+| colspan="27" | 
+
+|-
+! [[Elder Entity Norden]]
+| colspan="27" | 
+
+|-
+! [[Elemental HERO Stratos]]
+| colspan="17" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Emergency Provisions]]
+| colspan="11" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Emergency Teleport]]
+| colspan="22" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Eradicator Epidemic Virus]]
+| colspan="18" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Eva]]
+| colspan="27" | 
+
+|-
+! [[Evigishki Gustkraken]]
+| colspan="27" | 
+
+|-
+! [[Evigishki Mind Augus]]
+| colspan="27" | 
+
+|-
+! [[Evilswarm Exciton Knight]]
+| colspan="27" | 
+
+|-
+! [[Exchange of the Spirit]]
+| colspan="14" | || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Exiled Force]]
+| colspan="6" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Exodia the Forbidden One]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Fairy Tail - Snow]]
+| colspan="27" | 
+
+|-
+! [[Fiber Jar]]
+| colspan="6" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Final Countdown]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Fire Formation - Tenki]]
+| colspan="27" | 
+
+|-
+! [[Firewall Dragon]]
+| colspan="27" | 
+
+|-
+! [[Fishborg Blaster]]
+| colspan="24" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Fissure]]
+| colspan="10" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Foolish Burial]]
+| colspan="20" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Formula Synchron]]
+| colspan="27" | 
+
+|-
+! [[Fusion Destiny]]
+| colspan="27" | 
+
+|-
+! [[Future Fusion]]
+| colspan="16" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Gateway of the Six]]
+| colspan="25" | || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Geargiagear]]
+| colspan="27" | 
+
+|-
+! [[Gem-Knight Master Diamond]]
+| colspan="27" | 
+
+|-
+! [[Genex Ally Birdman]]
+| colspan="27" | 
+
+|-
+! [[Giant Trunade]]
+| colspan="2" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Gladiator Beast Bestiari]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Glow-Up Bulb]]
+| colspan="27" | 
+
+|-
+! [[Goblin Zombie]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}}
+
+|-
+! [[Gold Sarcophagus]]
+| colspan="19" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Good Goblin Housekeeping]]
+| colspan="13" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Gorz the Emissary of Darkness]]
+| colspan="22" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Goyo Guardian]]
+| colspan="23" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Graceful Charity]]
+| colspan="4" | || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Graff, Malebranche of the Burning Abyss]]
+| colspan="27" | 
+
+|-
+! [[Grandsoil the Elemental Lord]]
+| colspan="27" | 
+
+|-
+! [[Gravity Bind]]
+| colspan="3" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Green Baboon, Defender of the Forest]]
+| colspan="18" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Green Gadget]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Grinder Golem]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Guardragon Agarpain]]
+| colspan="27" | 
+
+|-
+! [[Guardragon Elpy]]
+| colspan="27" | 
+
+|-
+! [[Harpie's Feather Duster]]
+| colspan="4" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Heavy Storm]]
+| {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}}
+
+|-
+! [[Heavymetalfoes Electrumite]]
+| colspan="27" | 
+
+|-
+! [[Hieratic Seal of Convocation]]
+| colspan="27" | 
+
+|-
+! [[Honest]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Ib the World Chalice Justiciar]]
+| colspan="27" | 
+
+|-
+! [[Icarus Attack]]
+| colspan="16" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Ignis Heat, the True Dracowarrior]]
+| colspan="27" | 
+
+|-
+! [[Ignister Prominence, the Blasting Dracoslayer]]
+| colspan="27" | 
+
+|-
+! [[Imperial Order]]
+| colspan="3" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Infernity Archfiend]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Infernity Barrier]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Infernity Launcher]]
+| colspan = 26 | || {{#var: 1}}
+
+|-
+! [[Injection Fairy Lily]]
+| colspan="6" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Instant Fusion]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Interrupted Kaiju Slumber]]
+| colspan="27" | 
+
+|-
+! [[Into the Void]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Inzektor Dragonfly]]
+| colspan="27" | 
+
+|-
+! [[Inzektor Hornet]]
+| colspan="27" | 
+
+|-
+! [[Jet Synchron]]
+| colspan="27" | 
+
+|-
+! [[Jinzo]]
+| colspan="3" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Judgment Dragon]]
+| colspan="22" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Kaiser Colosseum]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Knightmare Goblin]]
+| colspan="27" | 
+
+|-
+! [[Knightmare Mermaid]]
+| colspan="27" | 
+
+|-
+! [[Kozmo Dark Destroyer]]
+| colspan="27" | 
+
+|-
+! [[Lady Debug]]
+| colspan="27" | 
+
+|-
+! [[Last Turn]]
+| colspan="6" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Last Will]]
+| {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Lavalval Chain]]
+| colspan="27" | 
+
+|-
+! [[Left Arm of the Forbidden One]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Left Leg of the Forbidden One]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Legendary Six Samurai - Shi En]]
+| colspan="27" | 
+
+|-
+! [[Level Eater]]
+| colspan="25" | || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Level Limit - Area B]]
+| colspan="11" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Light and Darkness Dragon]]
+| colspan="20" | || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Lightning Vortex]]
+| colspan="13" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Lightning, Dragon Ruler of Drafts]]
+| colspan="27" | 
+
+|-
+! [[Limiter Removal]]
+| colspan="3" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Linkross]]
+| colspan="27" | 
+
+|-
+! [[Lonefire Blossom]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Lumina, Lightsworn Summoner]]
+| colspan="22" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Lunalight Tiger]]
+| colspan="27" | 
+
+|-
+! [[Luster Pendulum, the Dracoslayer]]
+| colspan="27" | 
+
+|-
+! [[Lyrilusc - Recital Starling]]
+| colspan="27" | 
+
+|-
+! [[M-X-Saber Invoker]]
+| colspan="27" | 
+
+|-
+! [[Macro Cosmos]]
+| colspan="16" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Mage Power]]
+| colspan="4" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Magic Cylinder]]
+| colspan="4" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}}
+
+|-
+! [[Magical Explosion]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Magical Mid-Breaker Field]]
+| colspan="27" | 
+
+|-
+! [[Magical Scientist]]
+| colspan="9" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Magical Stone Excavation]]
+| colspan="17" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Magician of Faith]]
+| {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 2}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Majespecter Unicorn - Kirin]]
+| colspan="27" | 
+
+|-
+! [[Makyura the Destructor]]
+| colspan="13" | || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Manticore of Darkness]]
+| colspan="10" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Marauding Captain]]
+| colspan="6" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Marshmallon]]
+| colspan="19" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Mask of Darkness]]
+| colspan="2" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Mass Driver]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Master Peace, the True Dracoslaying King]]
+| colspan="27" | 
+
+|-
+! [[Mathematician]]
+| colspan="27" | 
+
+|-
+! [[Maxx "C"]]
+| colspan="27" | 
+
+|-
+! [[Mecha Phantom Beast Auroradon]]
+| colspan="27" | 
+
+|-
+! [[Mecha Phantom Beast O-Lion]]
+| colspan="27" | 
+
+|-
+! [[Megamorph]]
+| colspan="10" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Mermail Abyssgunde]]
+| colspan="27" | 
+
+|-
+! [[Metamorphosis]]
+| colspan="7" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Metaverse]]
+| colspan="27" | 
+
+|-
+! [[Mezuki]]
+| colspan="22" | || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Mind Control]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Mind Crush]]
+| colspan="12" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Mind Master]]
+| colspan="23" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Mirage of Nightmare]]
+| colspan="7" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Mirror Force]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Miscellaneousaurus]]
+| colspan="27" | 
+
+|-
+! [[Monster Gate]]
+| colspan="15" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Monster Reborn]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}}
+
+|-
+! [[Morphing Jar]]
+| colspan="2" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Morphing Jar 2]]
+| colspan="3" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Mystical Space Typhoon]]
+| colspan="2" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}}
+
+|-
+! [[Nadir Servant]]
+| colspan="27" | 
+
+|-
+! [[Necro Gardna]]
+| colspan="19" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Necroface]]
+| colspan="20" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Nekroz of Brionac]]
+| colspan="27" | 
+
+|-
+! [[Nekroz of Unicore]]
+| colspan="27" | 
+
+|-
+! [[Neo-Spacian Grand Mole]]
+| colspan="17" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Night Assailant]]
+| colspan="11" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Nobleman of Crossout]]
+| colspan="3" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Number 16: Shock Master]]
+| colspan="27" | 
+
+|-
+! [[Number 42: Galaxy Tomahawk]]
+| colspan="27" | 
+
+|-
+! [[Number 86: Heroic Champion - Rhongomyniad]]
+| colspan="27" | 
+
+|-
+! [[Number 95: Galaxy-Eyes Dark Matter Dragon]]
+| colspan="27" | 
+
+|-
+! [[Number S0: Utopic ZEXAL]]
+| colspan="27" | 
+
+|-
+! [[Ojama Trio]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}}
+
+|-
+! [[One Day of Peace]]
+| colspan="27" | 
+
+|-
+! [[One for One]]
+| colspan="24" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Orcust Harp Horror]]
+| colspan="27" | 
+
+|-
+! [[Outer Entity Azathot]]
+| colspan="27" | 
+
+|-
+! [[Overload Fusion]]
+| colspan="16" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Painful Choice]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Pantheism of the Monarchs]]
+| colspan="27" | 
+
+|-
+! [[Pendulum Call]]
+| colspan="27" | 
+
+|-
+! [[Performage Damage Juggler]]
+| colspan="27" | 
+
+|-
+! [[Performage Plushfire]]
+| colspan="27" | 
+
+|-
+! [[Performapal Monkeyboard]]
+| colspan="27" | 
+
+|-
+! [[Performapal Skullcrobat Joker]]
+| colspan="27" | 
+
+|-
+! [[Phantom of Chaos]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Phantom Skyblaster]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Phoenixian Cluster Amaryllis]]
+| colspan="24" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Plaguespreader Zombie]]
+| colspan="23" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Pot of Avarice]]
+| colspan="15" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Pot of Desires]]
+| colspan="27" | 
+
+|-
+! [[Pot of Duality]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Pot of Greed]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Prank-Kids Meow-Meow-Mu]]
+| colspan="27" | 
+
+|-
+! [[Predaplant Verte Anaconda]]
+| colspan="27" | 
+
+|-
+! [[Premature Burial]]
+| colspan="3" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Preparation of Rites]]
+| colspan="25" | || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Primal Seed]]
+| colspan="15" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Protector of the Sanctuary]]
+| colspan="10" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[PSY-Framelord Omega]]
+| colspan="27" | 
+
+|-
+! [[Qliphort Scout]]
+| colspan="27" | 
+
+|-
+! [[Raigeki]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Raiza the Storm Monarch]]
+| colspan="18" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Rank-Up-Magic Argent Chaos Force]]
+| colspan="27" | 
+
+|-
+! [[Reactan, Dragon Ruler of Pebbles]]
+| colspan="27" | 
+
+|-
+! [[Reasoning]]
+| colspan="21" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Reborn Tengu]]
+| colspan="27" | 
+
+|-
+! [[Reckless Greed]]
+| colspan="7" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Red Gadget]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Red Reboot]]
+| colspan="27" | 
+
+|-
+! [[Red Rose Dragon]]
+| colspan="27" | 
+
+|-
+! [[Red-Eyes Darkness Metal Dragon]]
+| colspan="23" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Redox, Dragon Ruler of Boulders]]
+| colspan="27" | 
+
+|-
+! [[Reflect Bounder]]
+| colspan="9" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Reinforcement of the Army]]
+| colspan="6" | || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Rekindling]]
+| colspan="24" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Rescue Cat]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}}
+
+|-
+! [[Rescue Rabbit]]
+| colspan="27" | 
+
+|-
+! [[Return from the Different Dimension]]
+| colspan="11" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Right Arm of the Forbidden One]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Right Leg of the Forbidden One]]
+| {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Ring of Destruction]]
+| colspan="7" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Ritual Beast Ulti-Cannahawk]]
+| colspan="27" | 
+
+|-
+! [[Ronintoadin]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Royal Decree]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}}
+
+|-
+! [[Royal Oppression]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 1}}
+
+|-
+! [[Royal Tribute]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Sacred Phoenix of Nephthys]]
+| colspan="13" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Sacred Sword of Seven Stars]]
+| colspan="27" | 
+
+|-
+! [[Salamangreat Circle]]
+| colspan="27" | 
+
+|-
+! [[Salamangreat Gazelle]]
+| colspan="27" | 
+
+|-
+! [[Salamangreat Miragestallio]]
+| colspan="27" | 
+
+|-
+! [[Samsara Lotus]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Sangan]]
+| {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}}
+
+|-
+! [[Saqlifice]]
+| colspan="27" | 
+
+|-
+! [[Scapegoat]]
+| colspan="4" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Sekka's Light]]
+| colspan="27" | 
+
+|-
+! [[Self-Destruct Button]]
+| colspan="19" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Servant of Endymion]]
+| colspan="27" | 
+
+|-
+! [[Set Rotation]]
+| colspan="27" | 
+
+|-
+! [[Shien's Smoke Signal]]
+| colspan="27" | 
+
+|-
+! [[Shooting Riser Dragon]]
+| colspan="27" | 
+
+|-
+! [[Shurit, Strategist of the Nekroz]]
+| colspan="27" | 
+
+|-
+! [[Simorgh, Bird of Sovereignty]]
+| colspan="27" | 
+
+|-
+! [[Sinister Serpent]]
+| colspan="4" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Sixth Sense]]
+| colspan="27" | 
+
+|-
+! [[Skill Drain]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Sky Striker Ace - Kagari]]
+| colspan="27" | 
+
+|-
+! [[Sky Striker Mecha - Hornet Drones]]
+| colspan="27" | 
+
+|-
+! [[Sky Striker Mecha - Widow Anchor]]
+| colspan="27" | 
+
+|-
+! [[Sky Striker Mecha Modules - Multirole]]
+| colspan="27" | 
+
+|-
+! [[Sky Striker Mobilize - Engage!]]
+| colspan="27" | 
+
+|-
+! [[Slash Draw]]
+| colspan="27" | 
+
+|-
+! [[Smashing Ground]]
+| colspan="19" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Smoke Grenade of the Thief]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Snatch Steal]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Snipe Hunter]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}}
+
+|-
+! [[Solemn Judgment]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Solemn Warning]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Soul Charge]]
+| colspan="27" | 
+
+|-
+! [[Soul Drain]]
+| colspan="27" | 
+
+|-
+! [[Speedroid Terrortop]]
+| colspan="27" | 
+
+|-
+! [[Spellbook of Fate]]
+| colspan="27" | 
+
+|-
+! [[Spellbook of Judgment]]
+| colspan="27" | 
+
+|-
+! [[Spirit Reaper]]
+| colspan="7" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Spore]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[SPYRAL GEAR - Drone]]
+| colspan="27" | 
+
+|-
+! [[SPYRAL Master Plan]]
+| colspan="27" | 
+
+|-
+! [[SPYRAL Quik-Fix]]
+| colspan="27" | 
+
+|-
+! [[SPYRAL Resort]]
+| colspan="27" | 
+
+|-
+! [[Stream, Dragon Ruler of Droplets]]
+| colspan="27" | 
+
+|-
+! [[Striker Dragon]]
+| colspan="27" | 
+
+|-
+! [[Substitoad]]
+| colspan="22" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 0}}
+
+|-
+! [[Summon Sorceress]]
+| colspan="27" | 
+
+|-
+! [[Summoner Monk]]
+| colspan="23" | || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Super Polymerization]]
+| colspan="20" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Super Rejuvenation]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Supreme King Dragon Starving Venom]]
+| colspan="27" | 
+
+|-
+! [[Swords of Revealing Light]]
+| {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Symbol of Heritage]]
+| colspan="15" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[T.G. Hyper Librarian]]
+| colspan="27" | 
+
+|-
+! [[T.G. Striker]]
+| colspan="27" | 
+
+|-
+! [[Tellarknight Ptolemaeus]]
+| colspan="27" | 
+
+|-
+! [[Tempest Magician]]
+| colspan="23" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Tempest, Dragon Ruler of Storms]]
+| colspan="27" | 
+
+|-
+! [[Temple of the Kings]]
+| colspan = 26 | || {{#var: 0}}
+
+|-
+! [[Terraforming]]
+| colspan="13" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[That Grass Looks Greener]]
+| colspan="27" | 
+
+|-
+! [[The Agent of Mystery - Earth]]
+| colspan="27" | 
+
+|-
+! [[The Forceful Sentry]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[The Monarchs Stormforth]]
+| colspan="27" | 
+
+|-
+! [[The Phantom Knights of Rusty Bardiche]]
+| colspan="27" | 
+
+|-
+! [[The Phantom Knights' Rank-Up-Magic Launch]]
+| colspan="27" | 
+
+|-
+! [[The Transmigration Prophecy]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[The Tyrant Neptune]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Thousand-Eyes Restrict]]
+| colspan="3" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Thunder Dragon Colossus]]
+| colspan="27" | 
+
+|-
+! [[Thunder King Rai-Oh]]
+| colspan = 26 | || {{#var: 3}}
+
+|-
+! [[Tidal, Dragon Ruler of Waterfalls]]
+| colspan="27" | 
+
+|-
+! [[Time Seal]]
+| colspan="10" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Toadally Awesome]]
+| colspan="27" | 
+
+|-
+! [[Topologic Gumblar Dragon]]
+| colspan="27" | 
+
+|-
+! [[Torrential Tribute]]
+| colspan="5" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Tour Guide From the Underworld]]
+| colspan="27" | 
+
+|-
+! [[Tragoedia]]
+| colspan="24" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Trap Dustshoot]]
+| colspan="14" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Treeborn Frog]]
+| colspan="14" | || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}}
+
+|-
+! [[Tribe-Infecting Virus]]
+| colspan="8" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Trickstar Light Stage]]
+| colspan="27" | 
+
+|-
+! [[Trishula, Dragon of the Ice Barrier]]
+| colspan="27" | 
+
+|-
+! [[True King Lithosagym, the Disaster]]
+| colspan="27" | 
+
+|-
+! [[True King of All Calamities]]
+| colspan="27" | 
+
+|-
+! [[True King's Return]]
+| colspan="27" | 
+
+|-
+! [[Tsukuyomi]]
+| colspan="9" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Twin-Headed Behemoth]]
+| colspan="6" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Ultimate Offering]]
+| {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}}
+
+|-
+! [[Union Carrier]]
+| colspan="27" | 
+
+|-
+! [[United We Stand]]
+| colspan="4" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}}
+
+|-
+! [[Upstart Goblin]]
+| colspan="2" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Vampire Lord]]
+| colspan="9" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Vanity's Emptiness]]
+| colspan="27" | 
+
+|-
+! [[Victory Dragon]]
+| colspan="17" | || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Wall of Revealing Light]]
+| colspan="11" | || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}}
+
+|-
+! [[Wavering Eyes]]
+| colspan="27" | 
+
+|-
+! [[White Dragon Wyverburster]]
+| colspan="27" | 
+
+|-
+! [[Wind-Up Carrier Zenmaity]]
+| colspan="27" | 
+
+|-
+! [[Wind-Up Magician]]
+| colspan="27" | 
+
+|-
+! [[Wisdom-Eye Magician]]
+| colspan="27" | 
+
+|-
+! [[Witch of the Black Forest]]
+| {{#var: 2}} || {{#var: 2}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Yata-Garasu]]
+| colspan="6" | || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 1}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}} || {{#var: 0}}
+
+|-
+! [[Yellow Gadget]]
+| colspan="17" | || {{#var: 3}} || {{#var: 3}} || {{#var: 2}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}} || {{#var: 3}}
+
+|-
+! [[Zoodiac Barrage]]
+| colspan="27" | 
+
+|-
+! [[Zoodiac Broadbull]]
+| colspan="27" | 
+
+|-
+! [[Zoodiac Drident]]
+| colspan="27" | 
+
+|-
+! [[Zoodiac Ratpier]]
+| colspan="27" | 
+
+|}
