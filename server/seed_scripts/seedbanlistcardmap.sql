@@ -1,15 +1,3 @@
-DROP TABLE banlist_card_map;
-CREATE TABLE IF NOT EXISTS banlist_card_map (
-	banlist_id INT NOT NULL,
-	-- Banlist ID
-	card_id INT NOT NULL,
-	-- Card ID
-	status TEXT NOT NULL,
-	PRIMARY KEY (banlist_id, card_id),
-	FOREIGN KEY (banlist_id) REFERENCES banlists(id),
-	FOREIGN KEY (card_id) REFERENCES cards(id)
-);
-
 
 INSERT INTO banlist_card_map (banlist_id, card_id, status)
 VALUES (1, 1, 'Limited'),
